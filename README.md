@@ -6,7 +6,7 @@
 # Kontrollfragen
 
 <details>
-  <summar>Antwort</summar>
+  <summar>## Question</summar>
   I am an answer!
 </details>
 
